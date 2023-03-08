@@ -1,13 +1,13 @@
 $('#right-button').click(function() {
   event.preventDefault();
   $('.content').animate({
-    scrollLeft: "+=300px"
+    scrollLeft: "+=500px"
   }, "slow");
 });
 
 $('#left-button').click(function() {
   event.preventDefault();
   $('.content').animate({
-    scrollLeft: "-=300px"
+    scrollLeft: "-=500px"
   }, "slow");
 });
