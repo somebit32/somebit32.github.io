@@ -122,7 +122,7 @@ h1 {margin: 0;}
         font-size: 2em;
     }
     .cbox {
-        height: 455px;
+        height: 450px;
     }
 
     #left-button, #right-button {
@@ -138,7 +138,7 @@ h1 {margin: 0;}
     }
 
     .cbox {
-        height: 475px;
+        height: 470px;
     }
 
     #left-button, #right-button {
@@ -154,7 +154,7 @@ h1 {margin: 0;}
     }
 
     .cbox {
-        height: 485px;
+        height: 470px;
     }
 
 }
@@ -163,6 +163,22 @@ h1 {margin: 0;}
 
     .head_title {
         font-size: 1.2em;
+    }
+
+    .cbox {
+        height: 470px;
+    }
+
+}
+
+@media only screen and (max-width: 400px) {
+
+    .head_title {
+        font-size: 1.2em;
+    }
+
+    .cbox {
+        height: 460px;
     }
 
 }
