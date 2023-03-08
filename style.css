@@ -34,12 +34,12 @@ body {height: 100%; margin: 0; overflow-x: hidden;}
     border: 0;
     background: transparent;
     background-color: #00000047;
-    width: 50px;
-    height: 100px;
+    width: 70px;
+    height: 85px;
     cursor: pointer;
     font-family: serif;
     position: relative;
-    top: 135px;
+    top: 150px;
 }
 
 .button_right {
@@ -49,7 +49,7 @@ body {height: 100%; margin: 0; overflow-x: hidden;}
 
 .button_left {
     position: absolute;
-    left: 0;
+    left: 0px;
 }
 
 .content::-webkit-scrollbar {
