@@ -29,6 +29,16 @@ body {height: 100%; margin: 0; overflow-x: hidden;}
     overflow-x: auto;
 }
 
+.button_right {
+    position: absolute;
+    right: 0;
+}
+
+.button_left {
+    position: absolute;
+    left: 0;
+}
+
 .content::-webkit-scrollbar {
     width: 25px;
     height: 25px;
@@ -61,3 +71,5 @@ body {height: 100%; margin: 0; overflow-x: hidden;}
 .fbox {
     display: block;
 }
+
+
