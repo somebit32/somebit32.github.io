@@ -38,6 +38,8 @@ body {height: 100%; margin: 0; overflow-x: hidden;}
     height: 100px;
     cursor: pointer;
     font-family: serif;
+    position: relative;
+    top: 135px;
 }
 
 .button_right {
