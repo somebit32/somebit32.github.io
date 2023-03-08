@@ -29,6 +29,17 @@ body {height: 100%; margin: 0; overflow-x: hidden;}
     overflow-x: auto;
 }
 
+#left-button, #right-button { 
+    font-size: 62px;
+    border: 0;
+    background: transparent;
+    background-color: #00000047;
+    width: 50px;
+    height: 100px;
+    cursor: pointer;
+    font-family: serif;
+}
+
 .button_right {
     position: absolute;
     right: 0;
