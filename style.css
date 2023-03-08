@@ -142,7 +142,7 @@ h1 {margin: 0;}
 @media only screen and (max-width: 600px) {
 
     .head_title {
-        font-size: 1em;
+        font-size: 1.5em;
     }
 
     .cbox {
@@ -154,7 +154,7 @@ h1 {margin: 0;}
 @media only screen and (max-width: 600px) {
 
     .head_title {
-        font-size: 0.8em;
+        font-size: 1.2em;
     }
 
 }
