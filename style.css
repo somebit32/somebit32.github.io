@@ -1,5 +1,7 @@
-html {background: #3a3a3a;}
-body {height: 100%; margin: 0;}
+html {background: #2a2a2a;}
+body {height: 100%; margin: 0; overflow-x: hidden;}
+
+
 
 .head_title {
     text-align: center;
@@ -21,16 +23,28 @@ body {height: 100%; margin: 0;}
 }
 
 .content {
-    padding: 15px;
-    background-color: antiquewhite;
+    padding: 16px 8px;
+    background-color: #4c4c4c;
     white-space: nowrap;
     overflow: hidden;
 }
 
+.content::-webkit-scrollbar {
+    width: 12px;               /* ширина scrollbar */
+  }
+  .content::-webkit-scrollbar-track {
+    background: orange;        /* цвет дорожки */
+  }
+  .content::-webkit-scrollbar-thumb {
+    background-color: blue;    /* цвет плашки */
+    border-radius: 20px;       /* закругления плашки */
+    border: 3px solid orange;  /* padding вокруг плашки */
+  }
+
 .cbox {
     background-color: aliceblue;
     display: inline-block;
-    margin: 0 auto;
+    margin: 0px 8px;
     text-align: center;
     width: 525px;
     height: 295px;
