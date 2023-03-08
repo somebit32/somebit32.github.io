@@ -100,7 +100,7 @@ h1 {margin: 0;}
 @media only screen and (max-width: 900px) {
 
     .cbox {
-        height: 460px;
+        height: 430px;
     }
 
 }
@@ -109,7 +109,7 @@ h1 {margin: 0;}
 @media only screen and (max-width: 800px) {
 
     .cbox {
-        height: 570px;
+        height: 375px;
     }
 
 }
@@ -117,7 +117,7 @@ h1 {margin: 0;}
 @media only screen and (max-width: 700px) {
 
     .cbox {
-        height: 700px;
+        height: 375px;
     }
 
 }
