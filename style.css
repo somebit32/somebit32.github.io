@@ -79,7 +79,10 @@ h1 {margin: 0;}
     background-color: #000000;
     color:#ffffff;
     margin-top: 85px;
-    /*height: 100%;*/
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 .fbox {
