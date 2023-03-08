@@ -182,3 +182,24 @@ h1 {margin: 0;}
     }
 
 }
+
+@media only screen and (max-height: 800px) {
+
+    .cbox {
+        height: 325px;
+    }
+
+}
+
+
+@media only screen and (max-height: 750px) {
+
+    .cbox {
+        height: 270px;
+    }
+
+    #left-button, #right-button {
+        top: 105px;
+    }
+
+}
