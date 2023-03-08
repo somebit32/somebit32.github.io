@@ -1,5 +1,7 @@
 html {background: #3a3a3a;}
-.headTitle {
+body {height: 100%; margin: 0;}
+
+.head_title {
     text-align: center;
     padding: 35px 5px;
     top: 10%; 
@@ -17,3 +19,24 @@ html {background: #3a3a3a;}
     1px 15px 35px rgba(16,16,16,0.2),
     1px 20px 60px rgba(16,16,16,0.4);
 }
+<<<<<<< HEAD
+
+.content {
+    height: 100%;
+    margin: 35px 5px;
+    padding: 15px;
+    background-color: antiquewhite;
+}
+
+.footer {
+    padding: 15px;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: aliceblue;
+    height: 25%;
+}
+=======
+
+>>>>>>> b1f719ce0b92b0c7d6fca6051f70e8c4e3265a49
