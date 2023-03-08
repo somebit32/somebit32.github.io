@@ -26,7 +26,7 @@ body {height: 100%; margin: 0; overflow-x: hidden;}
     padding: 16px 8px;
     background-color: #4c4c4c;
     white-space: nowrap;
-    overflow: hidden;
+    overflow-x: auto;
 }
 
 .content::-webkit-scrollbar {
