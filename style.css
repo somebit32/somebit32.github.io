@@ -21,13 +21,19 @@ body {height: 100%; margin: 0;}
 }
 
 .content {
-    height: 100%;
     padding: 15px;
     background-color: antiquewhite;
+    white-space: nowrap;
+    overflow: hidden;
 }
 
 .cbox {
-    display: block;
+    background-color: aliceblue;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    width: 525px;
+    height: 295px;
 }
 
 .footer {
