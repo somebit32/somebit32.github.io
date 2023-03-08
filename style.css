@@ -30,16 +30,19 @@ body {height: 100%; margin: 0; overflow-x: hidden;}
 }
 
 .content::-webkit-scrollbar {
-    width: 12px;               /* ширина scrollbar */
-  }
-  .content::-webkit-scrollbar-track {
-    background: orange;        /* цвет дорожки */
-  }
-  .content::-webkit-scrollbar-thumb {
-    background-color: blue;    /* цвет плашки */
-    border-radius: 20px;       /* закругления плашки */
-    border: 3px solid orange;  /* padding вокруг плашки */
-  }
+    width: 25px;
+    height: 25px;
+}
+
+.content::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+.content::-webkit-scrollbar-thumb {
+    background-color: black;
+    border-radius: 0px;
+    border: 5px solid #4c4c4c;
+}
 
 .cbox {
     background-color: aliceblue;
@@ -51,8 +54,8 @@ body {height: 100%; margin: 0; overflow-x: hidden;}
 }
 
 .footer {
-    background-color: black;
-    color: aliceblue;
+    background-color: #000000;
+    color:#ffffff
 }
 
 .fbox {
