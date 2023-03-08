@@ -1,8 +1,6 @@
 html {background: #3a3a3a;}
 body {background-color: yellow;} 
-.head {position: absolute;}
-.text {
-    position: absolute;
+.headTitle {
     text-align: center;
     padding: 35px 5px;
     top: 10%; 
