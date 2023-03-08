@@ -95,6 +95,10 @@ h1 {margin: 0;}
         font-size: 3em;
     }
 
+    .cbox {
+        height: 425px;
+    }
+
 }
 
 @media only screen and (max-width: 900px) {
