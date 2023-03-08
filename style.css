@@ -149,6 +149,17 @@ h1 {margin: 0;}
 
 }
 
+@media only screen and (max-width: 270px) {
+
+    .head_title {
+        font-size: 0.8em;
+    }
+
+    .cbox {
+        height: 425px;
+    }
+
+}
 
 
 
