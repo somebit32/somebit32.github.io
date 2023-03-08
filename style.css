@@ -4,7 +4,7 @@ body {background-color: yellow;}
 .text {
     position: absolute;
     text-align: center;
-    padding: 5px;
+    padding: 35px 5px;
     top: 10%; 
     text-transform: uppercase;
     font-family: verdana;
