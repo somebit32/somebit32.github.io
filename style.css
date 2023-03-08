@@ -203,3 +203,15 @@ h1 {margin: 0;}
     }
 
 }
+
+@media only screen and (max-height: 700px) {
+
+    .cbox {
+        height: 215px;
+    }
+
+    #left-button, #right-button {
+        top: 70px;
+    }
+
+}
