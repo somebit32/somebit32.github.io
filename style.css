@@ -26,16 +26,15 @@ body {height: 100%; margin: 0;}
     background-color: antiquewhite;
 }
 
-.box {
+.cbox {
     display: block;
 }
 
 .footer {
-    padding: 15px;
     background-color: black;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
     color: aliceblue;
-    height: 25%;
+}
+
+.fbox {
+    display: block;
 }
