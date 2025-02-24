@@ -199,9 +199,10 @@
 		}
 		
 		.project_class { 
-			width: 155px !important;
-			height: 155px !important;
+			width: 522px !important;
+			height: 90px !important;
 			font-size: 16px !important;
+			line-height: 1.4;
 		}
 
 	}
@@ -217,9 +218,9 @@
 		width: 85% !important;
 	}
 		.project_class { 
-			width: 120px !important;
-			height: 120px !important;
-			font-size: 12px !important;
+			width: 522px !important;
+			height: 90px !important;
+			font-size: 14px !important;
 		}
 	
 	}
@@ -249,9 +250,9 @@
 		}
 		
 		.project_class { 
-			width: 80px !important;
+			width: 310px !important;
 			height: 80px !important;
-			font-size: 8px !important;
+			font-size: 14px !important;
 		}
 
 	}
